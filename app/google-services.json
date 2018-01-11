@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "832010220171",
+    "firebase_url": "https://livechat-1f2fa.firebaseio.com",
+    "project_id": "livechat-1f2fa",
+    "storage_bucket": "livechat-1f2fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832010220171:android:d0116a36beddfaae",
+        "android_client_info": {
+          "package_name": "com.bringletech.looviedraft.livechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832010220171-d9lsm8qk9pt24djv41jj1m8hkpn0mgj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn90A50VtMkp8Sr7Az9xAMmD9HN-yhaYo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
